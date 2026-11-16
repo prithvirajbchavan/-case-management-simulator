@@ -1,5 +1,10 @@
 Live demo: https://prithvirajbchavan.github.io/case-management-simulator/
+
+
+
 [Watch the 1-minute demo](case-simulator-demo.mp4)
+
+
 
 # Customer Service Case Management Simulator
 
