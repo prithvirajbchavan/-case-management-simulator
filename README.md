@@ -1,4 +1,6 @@
 Live demo: https://prithvirajbchavan.github.io/case-management-simulator/
+[Watch the 1-minute demo](case-simulator-demo.mp4)
+
 # Customer Service Case Management Simulator
 
 CRM-style service desk: log cases, categorize, assign, escalate, resolve, close and capture fixes in a knowledge base.
